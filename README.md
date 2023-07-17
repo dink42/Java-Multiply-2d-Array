@@ -1,3 +1,3 @@
 # Learning Java and repetition
 ---
-| All ideas for projects are welcome!
+- Multiplication table written out in colums thorught for loops and 2D Arrays.
